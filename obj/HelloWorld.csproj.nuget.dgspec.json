@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\CORSO Angular\\VISUAL_S\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\user\\Desktop\\CORSO Angular\\GitHub\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\CORSO Angular\\VISUAL_S\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\user\\Desktop\\CORSO Angular\\GitHub\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\CORSO Angular\\VISUAL_S\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\CORSO Angular\\GitHub\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\user\\Desktop\\CORSO Angular\\VISUAL_S\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\CORSO Angular\\GitHub\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\CORSO Angular\\VISUAL_S\\HelloWorld\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\CORSO Angular\\GitHub\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
