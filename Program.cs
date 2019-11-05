@@ -25,7 +25,7 @@ namespace HelloWorld
             Console.WriteLine(luca.Anagrafica());
             Giovanni = luca;
 
-            Giovanni.nome = "Giovanni";
+            Giovanni.name = "Giovanni";
 
 
             //stringa = 'la mia casa è bella';

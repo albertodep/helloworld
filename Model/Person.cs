@@ -6,8 +6,8 @@ namespace HelloWorld.Model
 {
     class Person
     {
-        public string nome;
-        public string cognome;
+        public string name;
+        public string surname;
         public string eta;
         public string sesso;
         public int altezza;
@@ -15,8 +15,8 @@ namespace HelloWorld.Model
 
         public Person(string nome, string cognome)
         {
-            this.nome = nome;
-            this.cognome = cognome;
+            this.name = nome;
+            this.cognome = surname;
             this.sesso = "sconosciuto";
 
         }
@@ -24,13 +24,18 @@ namespace HelloWorld.Model
         {
         }
      
-
         public string Anagrafica()
         {
-        string anagrafica = this.nome + this.cognome;
+        string anagrafica = this.name + this.cognome;
         return anagrafica;
 
         }
+        public double BMI()
+        {
+         
 
-}
+        }
+
+
+    }
 }
